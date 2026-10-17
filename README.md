@@ -31,3 +31,6 @@ The app should open in your browser. If it does not, open the local URL shown in
 ## Data and privacy
 
 This demo keeps expenses in the active browser session. They are not permanently saved, and they may disappear when the session ends or the app restarts. Do not enter sensitive financial information. Add a database if you later want persistent storage.
+
+*****Here is direct clickable link of project *****
+https://expensetrackerproject-gpyxadgbknxoopf7eyehm2.streamlit.app/
