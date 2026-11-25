@@ -7,7 +7,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Projects by Pranjali", page_icon="📊", layout="wide")
 st.sidebar.title("My Projects")
-selected_project = st.sidebar.radio("Choose a project", ["Expense Tracker", "Food Delivery Analytics"])
+selected_project = st.sidebar.radio("Choose a project", ["Expense Tracker", "Food Delivery Analytics"], index=1)
 
 if selected_project == "Expense Tracker":
     import pandas as pd
