@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 371" role="img" aria-label="Average delivery time by weather">
+<rect width="100%" height="100%" fill="#fffaf6"/>
+<text x="24" y="30" font-family="Arial" font-size="18" font-weight="bold" fill="#20252b">Average delivery time by weather</text>
+<text x="143" y="68" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Sunny</text>
+<rect x="155" y="51" width="391.3" height="25" rx="5" fill="#ee6c4d"/>
+<text x="554.3" y="69" font-family="Arial" font-size="12" fill="#444">22.2 min</text>
+<text x="143" y="116" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Sandstorms</text>
+<rect x="155" y="99" width="460.4" height="25" rx="5" fill="#ee6c4d"/>
+<text x="623.4" y="117" font-family="Arial" font-size="12" fill="#444">26.1 min</text>
+<text x="143" y="164" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Stormy</text>
+<rect x="155" y="147" width="460.9" height="25" rx="5" fill="#ee6c4d"/>
+<text x="623.9" y="165" font-family="Arial" font-size="12" fill="#444">26.1 min</text>
+<text x="143" y="212" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Windy</text>
+<rect x="155" y="195" width="465.1" height="25" rx="5" fill="#ee6c4d"/>
+<text x="628.1" y="213" font-family="Arial" font-size="12" fill="#444">26.4 min</text>
+<text x="143" y="260" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Cloudy</text>
+<rect x="155" y="243" width="513.8" height="25" rx="5" fill="#ee6c4d"/>
+<text x="676.8" y="261" font-family="Arial" font-size="12" fill="#444">29.1 min</text>
+<text x="143" y="308" text-anchor="end" font-family="Arial" font-size="13" fill="#444">Fog</text>
+<rect x="155" y="291" width="515.0" height="25" rx="5" fill="#ee6c4d"/>
+<text x="678.0" y="309" font-family="Arial" font-size="12" fill="#444">29.2 min</text>
+<text x="155" y="363" font-family="Arial" font-size="11" fill="#777">Average delivery time in minutes · Weather</text></svg>
