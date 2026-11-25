@@ -1,0 +1,8 @@
+Dataset license: MIT (as labeled on the Hugging Face dataset page).
+Dataset source: https://huggingface.co/datasets/allenborochin/zomato_delivery_EDA
+The dataset page lists this upstream source:
+https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset
+
+Retain this attribution when redistributing the dataset. See the dataset page for
+the complete license and source details.
+
