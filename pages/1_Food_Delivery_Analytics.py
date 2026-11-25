@@ -7,12 +7,6 @@ import pandas as pd
 import streamlit as st
 
 
-st.set_page_config(
-    page_title="Food Delivery Analytics",
-    page_icon="🍱",
-    layout="wide",
-)
-
 ROOT = Path(__file__).resolve().parent
 LOCAL_DATA = ROOT / "zomato_cleaned.csv"
 DATA_URL = (
