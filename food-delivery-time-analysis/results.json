@@ -1,0 +1,100 @@
+{
+  "rows_before_cleaning": 38964,
+  "rows_after_cleaning": 38964,
+  "average_delivery_minutes": 26.58,
+  "median_delivery_minutes": 26.0,
+  "distance_time_correlation": 0.322,
+  "traffic": [
+    {
+      "category": "Low",
+      "orders": 13139,
+      "avg_delivery_minutes": 21.5
+    },
+    {
+      "category": "Medium",
+      "orders": 9556,
+      "avg_delivery_minutes": 26.93
+    },
+    {
+      "category": "High",
+      "orders": 3855,
+      "avg_delivery_minutes": 27.41
+    },
+    {
+      "category": "Jam",
+      "orders": 12414,
+      "avg_delivery_minutes": 31.44
+    }
+  ],
+  "weather": [
+    {
+      "category": "Sunny",
+      "orders": 6244,
+      "avg_delivery_minutes": 22.2
+    },
+    {
+      "category": "Sandstorms",
+      "orders": 6489,
+      "avg_delivery_minutes": 26.12
+    },
+    {
+      "category": "Stormy",
+      "orders": 6572,
+      "avg_delivery_minutes": 26.15
+    },
+    {
+      "category": "Windy",
+      "orders": 6436,
+      "avg_delivery_minutes": 26.39
+    },
+    {
+      "category": "Cloudy",
+      "orders": 6563,
+      "avg_delivery_minutes": 29.15
+    },
+    {
+      "category": "Fog",
+      "orders": 6660,
+      "avg_delivery_minutes": 29.22
+    }
+  ],
+  "distance": [
+    {
+      "category": "0-5 km",
+      "orders": 10390,
+      "avg_delivery_minutes": 22.42
+    },
+    {
+      "category": "5-10 km",
+      "orders": 10445,
+      "avg_delivery_minutes": 24.64
+    },
+    {
+      "category": "10-15 km",
+      "orders": 10567,
+      "avg_delivery_minutes": 30.09
+    },
+    {
+      "category": "15+ km",
+      "orders": 7562,
+      "avg_delivery_minutes": 30.08
+    }
+  ],
+  "city": [
+    {
+      "category": "Urban",
+      "orders": 8782,
+      "avg_delivery_minutes": 23.24
+    },
+    {
+      "category": "Metropolitian",
+      "orders": 30036,
+      "avg_delivery_minutes": 27.45
+    },
+    {
+      "category": "Semi-Urban",
+      "orders": 146,
+      "avg_delivery_minutes": 49.69
+    }
+  ]
+}
